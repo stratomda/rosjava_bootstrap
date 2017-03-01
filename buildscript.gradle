@@ -39,7 +39,7 @@ rootProject.buildscript {
             }
         }
         maven {
-            url "https://github.com/rosjava/rosjava_mvn_repo/raw/master"
+            url "https://github.com/stratomda/rosjava_mvn_repo/raw/master"
         }
         mavenCentral()
     }

@@ -46,7 +46,7 @@ class RosPlugin implements Plugin<Project> {
        * provide a repository of their own via the environment variable and use this as a fallback.
        */
       maven {
-        url "https://github.com/rosjava/rosjava_mvn_repo/raw/master"
+        url "https://github.com/stratomda/rosjava_mvn_repo/raw/master"
       }
       mavenLocal()
       maven {
